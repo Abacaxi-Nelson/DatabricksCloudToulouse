@@ -10,3 +10,6 @@ How to start :
  - Create a new folder on your workspace
  - Import the notebook from **notebook** folder
  - And you are on your own now
+
+Tips 🤝
+ - In playground, you can select models, choose one that support tools/agents 

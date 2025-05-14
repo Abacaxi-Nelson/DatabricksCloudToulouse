@@ -18,5 +18,5 @@ Tips 🤝
  - Example Question: Based on our company policies should we accept the latest return in the queue?
  - Example Question: what is today date ?
  - Example Question: Give me all information you got on Nicolas Pelaez ?
- - Tranlator request: **select ai_query('databricks-meta-llama-3-3-70b-instruct',"Can you translate following text in portuguese, only the translation: hello are you there "  || text)**
+ - Tranlator request: '''select ai_query('databricks-meta-llama-3-3-70b-instruct',"Can you translate following text in portuguese, only the translation: hello are you there "  || text)'''
 

@@ -11,7 +11,7 @@ How to start :
  - Import the notebook from **notebook** folder
  - And you are on your own now
 
-Then, your agents will be ready, add another one who translate the text in portuguese.
+Then, your agents will be ready, add another agent one which will translate the text in portuguese.
 
 Tips 🤝
  - In playground, you can select models, choose one that support tools/agents
@@ -19,4 +19,5 @@ Tips 🤝
  - Example Question: what is today date ?
  - Example Question: Give me all information you got on Nicolas Pelaez ?
  - Translator sql query: ```select ai_query('databricks-meta-llama-3-3-70b-instruct',"Can you translate following text in portuguese, only the translation:"  || text)```
+ - Example question: Based on our company policies should we accept the latest return in the queue? and translate response in portuguese
 
